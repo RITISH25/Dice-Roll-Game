@@ -51,6 +51,10 @@ footer {
 
 }
 
+.footer-class a{
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 900px) {
   img{
     text-align: center;
