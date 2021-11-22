@@ -52,6 +52,16 @@ footer {
 }
 
 @media screen and (max-width: 900px) {
+  img{
+    text-align: center;
+    font-size: 60%;
+  }
+  h1{
+    font-size: 4rem;
+  }
+  .container{
+    width: 100%;
+  }
   .dice{
     display: block;
   }
